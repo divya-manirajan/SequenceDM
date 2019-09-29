@@ -2,6 +2,3 @@ abc, aaqbzcw
 abc, qrtsze 
 ced, checked 
 dead, dread
-ABC, aAqBzcW
-AbCd, alkjBlkjclkjD
-uoiu, ui
